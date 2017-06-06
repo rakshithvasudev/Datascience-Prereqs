@@ -1,2 +1,2 @@
 # Datascience-Prereqs
-My playground for scipy, numpy, matplotlib &amp; scikit learn , sasd
+My playground for scipy, numpy, matplotlib, Pandas &amp; scikit learn.
