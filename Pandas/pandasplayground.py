@@ -6,4 +6,8 @@ data = {'Company':['GOOGLE','GOOGLE','MSFT','MSFT','FACEBOOK','FACEBOOK'],
 'Sales':[200,300,150,110,100,100]}
 
 df = pd.DataFrame(data)
-print(df)
+# print(df)
+
+byComp = df.groupby('Company')
+ 
+print(byComp.mean())
